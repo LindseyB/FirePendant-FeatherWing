@@ -17,7 +17,7 @@ void setup() {
 
 
 void loop() {
-	// GENERATED CODE IF YOU ARE EDITING THIS DON'T
+	// generated from the convert.py program using the images in the newframe.zip
 	matrix.drawPixel(4, 0, 1);
 	matrix.drawPixel(5, 0, 1);
 	matrix.drawPixel(6, 0, 1);
